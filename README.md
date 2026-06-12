@@ -127,11 +127,11 @@ git clone --branch branchname URL
 
 sudo git init
 
-sudo git remote add origin "https://github.com/prashanthkatam/ltibloodbank.git"
+sudo git remote add origin "https://github.com/murthyvella/bank_app.git"
 
-sudo git remote add origin "https://github.com/prashanthkatam/ltibloodbankrepo.git"
+sudo git remote add origin "https://github.com/murthyvella/bank_app.git"
 
-sudo git remote add origin "https://github.com/prashanthkatam/Hackathon.git"
+sudo git remote add origin "https://github.com/murthyvella/bank_app.git"
 
 sudo git remote -v
 
